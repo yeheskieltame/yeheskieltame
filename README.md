@@ -90,8 +90,8 @@ I am also working on new machine learning projects that will be added to my port
 If you want to collaborate on a project, discuss an opportunity, or just have a chat, feel free to reach out!
 
 - **Email**: yeheskielyunustame13tame@gmail.com
-- **LinkedIn**: ([https://www.linkedin.com/in/yeheskiel-tame](https://www.linkedin.com/in/yeheskiel/))
-- **GitHub**: [[github.com/username](https://github.com/yeheskieltame)](https://github.com/username)
+- **LinkedIn**: ([https://www.linkedin.com/in/yeheskiel](https://www.linkedin.com/in/yeheskiel/))
+- **GitHub**: [(https://github.com/yeheskieltame)](https://github.com/yeheskieltame)
 
 ---
 
