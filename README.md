@@ -26,14 +26,13 @@ Here are some of the technologies and tools I am proficient in:
 I am continuously developing my knowledge in data science and web development. Here are some of the certifications I have earned:
 
 - **DeepLearning.AI**
-  – [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/S6KHEU5OCWWS)
-  - [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/5D7M81TJ3QZ2)
   - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/X1AKSP4V28QN)
 - **Dicoding Indonesia** – Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
-- **Google** – Using Python to Interact with the Operating System
 - **Cisco** – Networking Basics
 - **SanberCode** – Belajar Dasar Git dengan GitHub, Belajar Analisis Data dengan Python
-- **Coursera** – Mathematics for Machine Learning and Data Science Specialization
+- **Coursera**
+  – [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/S6KHEU5OCWWS)
+  - [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/5D7M81TJ3QZ2)
 
 ---
 
