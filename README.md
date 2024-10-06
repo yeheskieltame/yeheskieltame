@@ -39,22 +39,22 @@ I am continuously developing my knowledge in data science and web development. H
 ### 1. **Bike Rental Data Analysis**
    - **Description**: In this project, I analyzed a dataset related to bike rental patterns using Python libraries such as Pandas, NumPy, and Matplotlib. The project aimed to identify rental trends and predict future demand based on historical data.
    - **Technologies**: Python, Pandas, Matplotlib
-   - [GitHub Repository](https://github.com/username/bike-rental-analysis)
+   - [GitHub Repository](https://github.com/yeheskieltame/Project-Data-Analist.git)
 
 ### 2. **Personal Portfolio Website**
    - **Description**: I developed a modern and responsive portfolio website using HTML, CSS, and JavaScript. The website showcases my projects and technical skills with a modern dark RGB theme.
    - **Technologies**: HTML, CSS, JavaScript, Bootstrap
    - [GitHub Repository](https://github.com/username/portfolio-website)
 
-### 3. **Student Performance Prediction with Machine Learning**
-   - **Description**: I built a machine learning model to predict student performance based on various factors such as study time, family support, and previous grades. The project helped me apply supervised learning techniques.
-   - **Technologies**: Python, Scikit-learn, Pandas
-   - [GitHub Repository](https://github.com/username/student-performance-prediction)
+### 3. **Student Route and dispenser Recomendation with Machine Learning**
+   - **Description**: I built a machine learning model to predict student route based on lpredict the fastest route, based on location and distance. This project helps to find route recommendations and the nearest dispensers in the campus area.
+   - **Technologies**: Python, djikstra, matplotlip
+   - [GitHub Repository](https://github.com/yeheskieltame/rekomendasi_dispenser.git)
 
 ### 4. **Data Visualization Dashboard**
    - **Description**: Created an interactive data visualization dashboard using Streamlit to explore and analyze large datasets with intuitive charts and graphs.
    - **Technologies**: Python, Streamlit, Pandas, Matplotlib
-   - [GitHub Repository](https://github.com/username/data-visualization-dashboard)
+   - [Dashboard](https://zsoeyhh3bvdl7bwvenk5ma.streamlit.app/)
 
 ### 5. **Machine Learning Time Management System**
    - **Description**: This project involved building a time management system that uses machine learning to optimize study and rest times. The system predicts optimal break intervals for maximum productivity.
