@@ -77,9 +77,13 @@ I am passionate about contributing to communities and sharing knowledge. I had t
 
 I am currently focused on further developing my expertise in machine learning and data science through **Bangkit Academy**'s **Machine Learning Path**. My weekly interactions with mentors and completion of various online courses from platforms such as Dicoding and Coursera keep me updated with the latest trends in the field. Some of the major courses I’ve completed include:
 
-- **Mathematics for Machine Learning**
-- **Crash Course on Python**
-- **Using Python to Interact with the Operating System**
+- **Machine Learning Specialization**
+- **DeepLearning.AI TensorFlow Developer Professional Certificate**
+- **Deep Learning Specialization**
+- **TensorFlow: Data and Deployment Specialization**
+- **Generative AI for Everyone**
+- **TensorFlow: Advanced Techniques Specialization**
+- **Generative Adversarial Networks (GANs) Specialization**
 
 I am also working on new machine learning projects that will be added to my portfolio soon.
 
