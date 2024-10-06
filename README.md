@@ -27,8 +27,15 @@ I am continuously developing my knowledge in data science and web development. H
 
 - **DeepLearning.AI**
   - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/X1AKSP4V28QN)
-- **Dicoding Indonesia** – Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
-- **Cisco** – Networking Basics
+- **Dicoding Indonesia**
+  - [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/1OP84LG61ZQK)
+  - [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/GRX54GKJYP0M)
+  - [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/JMZV1234RXN9)
+  - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/81P2N05WNXOY)
+  - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/JLX17OVD6X72)
+  - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/JMZV3KO5JPN9)
+- **Cisco**
+  - [CCNA: Introduction to Networks]()
 - **SanberCode** – Belajar Dasar Git dengan GitHub, Belajar Analisis Data dengan Python
 - **Coursera**
   - [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/S6KHEU5OCWWS)
