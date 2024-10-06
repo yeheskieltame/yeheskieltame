@@ -33,6 +33,7 @@ I am continuously developing my knowledge in data science and web development. H
 - **Coursera**
   
   – [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/S6KHEU5OCWWS)
+  
   - [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/5D7M81TJ3QZ2)
 
 ---
