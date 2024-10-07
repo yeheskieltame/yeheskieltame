@@ -9,12 +9,12 @@ Hello! I’m **Yeheskiel Yunus Tame**, a passionate **Machine Learning Developer
 
 Here are the tools and technologies that I’m proficient in:
 
-- **Programming Languages**: Python, SQL, HTML, CSS, JavaScript
+- **Programming Languages**: Python, SQL, HTML, CSS, JavaScript, Java
 - **Libraries & Frameworks**: TensorFlow, Pandas, NumPy, Matplotlib, Scikit-learn
 - **Web Development**: HTML5, CSS3, JavaScript, Bootstrap, Flask, Streamlit
 - **Version Control**: Git, GitHub
 - **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Data Visualization
-- **Tools**: Jupyter Notebook, Google Colab, Visual Studio Code, Docker
+- **Tools**: Jupyter Notebook, Google Colab, Pycharm, Intellij, Visual Studio Code, Docker
 - **Soft Skills**: Problem Solving, Teamwork, Time Management, Presentation Skills
 
 ---
