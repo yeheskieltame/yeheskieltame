@@ -9,9 +9,9 @@ Hello! I’m **Yeheskiel Yunus Tame**, a passionate **Machine Learning Developer
 
 Here are the tools and technologies that I’m proficient in:
 
-- **Programming Languages**: Python, SQL, HTML, CSS, JavaScript, Java
+- **Programming Languages**: Python, SQL, HTML, CSS, JavaScript, Java, PHP
 - **Libraries & Frameworks**: TensorFlow, Pandas, NumPy, Matplotlib, Scikit-learn
-- **Web Development**: HTML5, CSS3, JavaScript, Bootstrap, Flask, Streamlit
+- **Web Development**: HTML5, CSS3, JavaScript, Bootstrap, Flask, Streamlit,Laravel
 - **Version Control**: Git, GitHub
 - **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Data Visualization
 - **Tools**: Jupyter Notebook, Google Colab, Pycharm, Intellij, Visual Studio Code, Docker
@@ -26,16 +26,17 @@ I'm committed to lifelong learning in data science and web development. Here are
 - **DeepLearning.AI**
   - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/X1AKSP4V28QN)
 - **Dicoding Indonesia**
-  - [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/1OP84LG61ZQK)
-  - [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/GRX54GKJYP0M)
+  - [Learn Data Analysis with Python](https://www.dicoding.com/certificates/1OP84LG61ZQK)
+  - [Learn the Basics of Data Visualization](https://www.dicoding.com/certificates/GRX54GKJYP0M)
   - [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/JMZV1234RXN9)
-  - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/81P2N05WNXOY)
-  - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/JLX17OVD6X72)
-  - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/JMZV3KO5JPN9)
+  - [Getting Started with Programming Basics to Become a Software Developer](https://www.dicoding.com/certificates/81P2N05WNXOY)
+  - [Introduction to Programming Logic (Programming Logic 101)](https://www.dicoding.com/certificates/JLX17OVD6X72)
+  - [Getting Started with Python Programming](https://www.dicoding.com/certificates/GRX54DW1YP0M)
+  - [Learn Git Basics with GitHub](https://www.dicoding.com/certificates/JMZV3KO5JPN9)
 - **Cisco**
   - [CCNA: Introduction to Networks](#)
 - **SanberCode**
-  - Basic courses in Git and Data Analysis with Python
+  - [Laravel Web Development](https://sanbercode.com/certificate/in/c352b903-be13-445f-9aa7-3bc77f2ba2f3)
 - **Coursera**
   - [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/S6KHEU5OCWWS)
   - [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/5D7M81TJ3QZ2)
