@@ -67,8 +67,8 @@ I am continuously developing my knowledge in data science and web development. H
 
 ### 5. **Machine Learning Time Management System**
    - **Description**: This project involved building a time management system that uses machine learning to optimize study and rest times. The system predicts optimal break intervals for maximum productivity.
-   - **Technologies**: Python, TensorFlow, Pandas
-   - [GitHub Repository](https://github.com/username/time-management-ml)
+   - **Technologies**: Python, matplotlip, Json, Google Collab, Pandas
+   - [GitHub Repository](https://github.com/yeheskieltame/Time-Management-System.git)
 
 ---
 
