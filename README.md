@@ -69,6 +69,7 @@ I'm committed to lifelong learning in data science and web development. Here are
    - **Overview**: Developed a system that optimizes study and rest times using machine learning, predicting optimal break intervals.
    - **Technologies**: Python, Matplotlib, JSON, Google Colab, Pandas
    - [GitHub Repository](https://github.com/yeheskieltame/Time-Management-System.git)
+   - [Demo app](https://time-management-system.streamlit.app)
 
 ---
 
