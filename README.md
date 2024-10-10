@@ -26,21 +26,7 @@ Hello! I’m **Yeheskiel Yunus Tame**, a passionate **Machine Learning Developer
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 
-## 🚀 Skills & Technologies
-
-Here are the tools and technologies that I’m proficient in:
-
-- **Programming Languages**: Python, SQL, HTML, CSS, JavaScript, Java, PHP
-- **Libraries & Frameworks**: TensorFlow, Pandas, NumPy, Matplotlib, Scikit-learn
-- **Web Development**: HTML5, CSS3, JavaScript, Bootstrap, Flask, Streamlit,Laravel
-- **Version Control**: Git, GitHub
-- **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Data Visualization
-- **Tools**: Jupyter Notebook, Google Colab, Pycharm, Intellij, Visual Studio Code, Docker
-- **Soft Skills**: Problem Solving, Teamwork, Time Management, Presentation Skills
-
----
 
 ## 📚 Education & Certifications
 
@@ -121,15 +107,3 @@ I am focused on expanding my expertise in machine learning and data science thro
 I am also working on new machine learning projects to enhance my portfolio.
 
 ---
-
-## 📫 Get in Touch
-
-Interested in collaborating on a project, discussing opportunities, or just having a chat? Feel free to reach out!
-
-- **Email**: [yeheskielyunustame13tame@gmail.com](mailto:yeheskielyunustame13tame@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/yeheskiel](https://www.linkedin.com/in/yeheskiel/)
-- **GitHub**: [https://github.com/yeheskieltame](https://github.com/yeheskieltame)
-
----
-
-Thank you for visiting my portfolio! 🚀
