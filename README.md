@@ -91,8 +91,8 @@ I'm always open to:
 - Tech community engagements  
 
 📫 **How to reach me**:  
-→ yeheskiel.tame@email.com  
-→ [LinkedIn Messages](https://www.linkedin.com/in/yeheskieltame)  
+→ yeheskielyunustame@gmail.com  
+→ [LinkedIn Messages](https://www.linkedin.com/in/yeheskiel)  
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yeheskieltame.yeheskieltame)](https://github.com/yeheskieltame)
 
