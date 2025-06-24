@@ -13,19 +13,19 @@
 # Hi there, I'm Yeheskiel! 👋
 
 <a href="https://github.com/yeheskieltame">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yeheskieltame&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
 </a>
 
-Saya seorang Mahasiswa Ilmu Komputer dengan antusiasme tinggi dalam pengembangan aplikasi mobile dan blockchain yang ditenagai oleh AI. Saya adalah lulusan **Machine Learning** dari **Bangkit Academy 2024** (program dari Google, GoTo, Traveloka) , di mana saya mengasah kemampuan dalam membangun solusi teknologi yang inovatif.
+[cite_start]I am a Computer Science student with a strong passion for AI-driven mobile and blockchain development. [cite_start]As a **Machine Learning** graduate of **Bangkit Academy 2024** (a program by Google, GoTo, & Traveloka), I have honed my skills in building innovative and impactful technology solutions.
 
-Saya memiliki kemampuan yang terbukti dalam membangun aplikasi full-stack yang mengintegrasikan AI, machine learning, dan teknologi blockchain yang terdesentralisasi. Keahlian saya mencakup arsitektur sistem, analitik real-time, dan deployment ke cloud yang aman. 
+[cite_start]I have a proven ability to build full-stack applications that seamlessly integrate AI, machine learning, and decentralized blockchain technologies. [cite_start]My expertise spans system architecture, real-time analytics, and secure cloud deployment.
 
-- 🔭 **Saat ini saya sedang mengerjakan:**
-  - **Report It Right Now:** Sistem pelaporan berbasis blockchain untuk transparansi data. 
-  - **Financial Habit Tracker:** Aplikasi full-stack untuk melacak dan memberikan rekomendasi kebiasaan finansial. 
-- 🌱 **Saya sedang mendalami:** Arsitektur smart contract yang lebih kompleks dan optimisasi model AI untuk perangkat mobile.
-- 👯 **Saya mencari kolaborasi untuk:** Proyek open-source di bidang Web3, AI, atau pengembangan aplikasi mobile.
-- 📫 **Cara menghubungi saya:** [yeheskielyunustame13@gmail.com](mailto:yeheskielyunustame13@gmail.com) atau [LinkedIn](https://www.linkedin.com/in/yeheskiel) .
+- 🔭 **I’m currently working on:**
+  - [cite_start]**Report It Right Now:** A blockchain-based reporting system for data transparency.
+  - [cite_start]**Financial Habit Tracker:** A full-stack application to track and recommend financial habits.
+- 🌱 **I’m currently learning:** Advanced smart contract architecture and optimizing AI models for edge devices.
+- 👯 **I’m looking to collaborate on:** Open-source projects in the Web3, AI, or mobile development space.
+- [cite_start]📫 **How to reach me:** [yeheskielyunustame13@gmail.com](mailto:yeheskielyunustame13@gmail.com) [cite: 1] [cite_start]or [LinkedIn](https://www.linkedin.com/in/yeheskiel)[cite: 1].
 
 <br/>
 
@@ -86,8 +86,8 @@ Saya memiliki kemampuan yang terbukti dalam membangun aplikasi full-stack yang m
 <td width="50%">
 <h3 align="center">Report It Right Now - Blockchain Reporting System</h3>
 <div align="center">
-<p>Sistem pelaporan terdesentralisasi menggunakan smart contract untuk memastikan transparansi dan validitas data. Dilengkapi dashboard multi-peran (Publik, Admin, Validator) yang dibangun dengan React.js dan TypeScript. </p>
-<p><strong>Tech:</strong> React.js, TypeScript, Smart Contracts, MetaMask, Recharts </p>
+[cite_start]<p>A decentralized reporting system using smart contracts to enable transparent, tamper-proof reporting. [cite_start]Features multi-role dashboards (Public, Admin, Validator) built with React.js and TypeScript.</p>
+[cite_start]<p><strong>Tech:</strong> React.js, TypeScript, Smart Contracts, MetaMask, Recharts </p>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 </div>
@@ -96,8 +96,8 @@ Saya memiliki kemampuan yang terbukti dalam membangun aplikasi full-stack yang m
 <td width="50%">
 <h3 align="center">Financial Habit Tracker</h3>
 <div align="center">
-<p>Aplikasi privat untuk melacak keuangan dengan sistem rekomendasi berbasis aturan untuk kebiasaan finansial. Dibangun dengan otentikasi aman dari Supabase Auth dan dashboard interaktif menggunakan React.js & Recharts. </p>
-<p><strong>Tech:</strong> React.js, Supabase, PostgreSQL, Tailwind CSS, Recharts </p>
+[cite_start]<p>A private financial tracking app with a rule-based recommendation system for spending patterns. [cite_start]Engineered with secure Supabase authentication and interactive dashboards using React.js & Recharts.</p>
+[cite_start]<p><strong>Tech:</strong> React.js, Supabase, PostgreSQL, Tailwind CSS, Recharts </p>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 </div>
@@ -109,8 +109,8 @@ Saya memiliki kemampuan yang terbukti dalam membangun aplikasi full-stack yang m
 <td width="50%">
 <h3 align="center">Waste Management App (Bangkit Capstone)</h3>
 <div align="center">
-<p>Aplikasi Android yang memanfaatkan klasifikasi berbasis AI untuk pengelolaan sampah yang berkelanjutan. Model Deep Learning yang dikembangkan dengan TensorFlow mencapai akurasi 81% dan diintegrasikan menggunakan ML Kit untuk inferensi real-time. </p>
-<p><strong>Tech:</strong> Android, TensorFlow Lite, ML Kit, Kaggle </p>
+[cite_start]<p>An Android app leveraging AI-powered classification for sustainable waste disposal. [cite_start]The TensorFlow deep learning model achieved 81% accuracy and was integrated via ML Kit for real-time mobile inference.</p>
+[cite_start]<p><strong>Tech:</strong> Android, TensorFlow Lite, ML Kit, Kaggle </p>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 </div>
@@ -119,8 +119,8 @@ Saya memiliki kemampuan yang terbukti dalam membangun aplikasi full-stack yang m
 <td width="50%">
 <h3 align="center">AI-Enhanced Interactive Portfolio</h3>
 <div align="center">
-<p>Portofolio pribadi yang ditenagai AI, mengintegrasikan asisten chatbot dari OpenAI, sinkronisasi data real-time, dan kontrol suara untuk pengalaman pengguna yang interaktif. </p>
-<p><strong>Tech:</strong> React 18, TypeScript, Supabase, OpenAI, n8n, Vercel </p>
+[cite_start]<p>An AI-powered portfolio integrating an OpenAI chatbot assistant, real-time data sync, and voice control for an interactive user experience.</p>
+[cite_start]<p><strong>Tech:</strong> React 18, TypeScript, Supabase, OpenAI, n8n, Vercel </p>
 <a href="https://yeheskiel.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/View_Live-green?style=for-the-badge&logo=vercel" alt="View Live"/>
 </a>
