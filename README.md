@@ -16,16 +16,16 @@
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yeheskieltame&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
 </a>
 
-[cite_start]I am a Computer Science student with a strong passion for AI-driven mobile and blockchain development. [cite_start]As a **Machine Learning** graduate of **Bangkit Academy 2024** (a program by Google, GoTo, & Traveloka), I have honed my skills in building innovative and impactful technology solutions.
+I am a Computer Science student with a strong passion for AI-driven mobile and blockchain development. As a Machine Learning graduate of Bangkit Academy 2024 (a program by Google, GoTo, & Traveloka), I have honed my skills in building innovative and impactful technology solutions.
 
-[cite_start]I have a proven ability to build full-stack applications that seamlessly integrate AI, machine learning, and decentralized blockchain technologies. [cite_start]My expertise spans system architecture, real-time analytics, and secure cloud deployment.
+I have a proven ability to build full-stack applications that seamlessly integrate AI, machine learning, and decentralized blockchain technologies. My expertise spans system architecture, real-time analytics, and secure cloud deployment.
 
-- 🔭 **I’m currently working on:**
-  - [cite_start]**Report It Right Now:** A blockchain-based reporting system for data transparency.
-  - [cite_start]**Financial Habit Tracker:** A full-stack application to track and recommend financial habits.
-- 🌱 **I’m currently learning:** Advanced smart contract architecture and optimizing AI models for edge devices.
-- 👯 **I’m looking to collaborate on:** Open-source projects in the Web3, AI, or mobile development space.
-- [cite_start]📫 **How to reach me:** [yeheskielyunustame13@gmail.com](mailto:yeheskielyunustame13@gmail.com) [cite: 1] [cite_start]or [LinkedIn](https://www.linkedin.com/in/yeheskiel)[cite: 1].
+- 🔭 I’m currently working on:
+  - Report It Right Now: A blockchain-based reporting system for data transparency.
+  - Financial Habit Tracker: A full-stack application to track and recommend financial habits.
+- 🌱 I’m currently learning: Advanced smart contract architecture and optimizing AI models for edge devices.
+- 👯 I’m looking to collaborate on: Open-source projects in the Web3, AI, or mobile development space.
+- 📫 How to reach me: [yeheskielyunustame13@gmail.com](mailto:yeheskielyunustame13@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yeheskiel).
 
 <br/>
 
@@ -86,8 +86,8 @@
 <td width="50%">
 <h3 align="center">Report It Right Now - Blockchain Reporting System</h3>
 <div align="center">
-[cite_start]<p>A decentralized reporting system using smart contracts to enable transparent, tamper-proof reporting. [cite_start]Features multi-role dashboards (Public, Admin, Validator) built with React.js and TypeScript.</p>
-[cite_start]<p><strong>Tech:</strong> React.js, TypeScript, Smart Contracts, MetaMask, Recharts </p>
+<p>A decentralized reporting system using smart contracts to enable transparent, tamper-proof reporting. Features multi-role dashboards (Public, Admin, Validator) built with React.js and TypeScript.</p>
+<p><strong>Tech:</strong> React.js, TypeScript, Smart Contracts, MetaMask, Recharts</p>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 </div>
@@ -96,8 +96,8 @@
 <td width="50%">
 <h3 align="center">Financial Habit Tracker</h3>
 <div align="center">
-[cite_start]<p>A private financial tracking app with a rule-based recommendation system for spending patterns. [cite_start]Engineered with secure Supabase authentication and interactive dashboards using React.js & Recharts.</p>
-[cite_start]<p><strong>Tech:</strong> React.js, Supabase, PostgreSQL, Tailwind CSS, Recharts </p>
+<p>A private financial tracking app with a rule-based recommendation system for spending patterns. Engineered with secure Supabase authentication and interactive dashboards using React.js & Recharts.</p>
+<p><strong>Tech:</strong> React.js, Supabase, PostgreSQL, Tailwind CSS, Recharts</p>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 </div>
@@ -109,8 +109,8 @@
 <td width="50%">
 <h3 align="center">Waste Management App (Bangkit Capstone)</h3>
 <div align="center">
-[cite_start]<p>An Android app leveraging AI-powered classification for sustainable waste disposal. [cite_start]The TensorFlow deep learning model achieved 81% accuracy and was integrated via ML Kit for real-time mobile inference.</p>
-[cite_start]<p><strong>Tech:</strong> Android, TensorFlow Lite, ML Kit, Kaggle </p>
+<p>An Android app leveraging AI-powered classification for sustainable waste disposal. The TensorFlow deep learning model achieved 81% accuracy and was integrated via ML Kit for real-time mobile inference.</p>
+<p><strong>Tech:</strong> Android, TensorFlow Lite, ML Kit, Kaggle</p>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 </div>
@@ -119,8 +119,8 @@
 <td width="50%">
 <h3 align="center">AI-Enhanced Interactive Portfolio</h3>
 <div align="center">
-[cite_start]<p>An AI-powered portfolio integrating an OpenAI chatbot assistant, real-time data sync, and voice control for an interactive user experience.</p>
-[cite_start]<p><strong>Tech:</strong> React 18, TypeScript, Supabase, OpenAI, n8n, Vercel </p>
+<p>An AI-powered portfolio integrating an OpenAI chatbot assistant, real-time data sync, and voice control for an interactive user experience.</p>
+<p><strong>Tech:</strong> React 18, TypeScript, Supabase, OpenAI, n8n, Vercel</p>
 <a href="https://yeheskiel.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/View_Live-green?style=for-the-badge&logo=vercel" alt="View Live"/>
 </a>
