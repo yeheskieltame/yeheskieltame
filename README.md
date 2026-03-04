@@ -1,5 +1,5 @@
 # Hi there, I'm Yeheskiel Yunus Tame 👋
-### Web3 Architect | DevRel @DevWeb3Jogja | Founder of BCC UKDW
+### Web3 Dev | DevRel @DevWeb3Jogja | Founder of BCC UKDW
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-DevRel%20%40DevWeb3Jogja-blueviolet?style=for-the-badge&logo=googlecloud" alt="DevRel" />
