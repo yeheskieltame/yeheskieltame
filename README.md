@@ -59,8 +59,6 @@ A track record of building award-winning decentralized solutions on a global sca
 ## 🏛️ Leadership & Community
 * **DevRel (Developer Relations) @DevWeb3Jogja:** Bridging the gap between protocols and developers in Yogyakarta's largest Web3 ecosystem.
 * **Founder & President @BCC_UKDW:** Empowering 100+ students through partnerships with **MetaMask**, **Base**, and **Upbit**.
-* **Regional Ambassador @OneChain Labs:** Spearheading the adoption of next-gen blockchain infrastructure in Indonesia.
-
 ---
 
 ## 📊 GitHub Stats
