@@ -13,55 +13,45 @@
 
 ---
 
-## 🤖 What I'm Building Now
+## 🤖 What I'm Building
 
 ### Claudelance · The Onchain Marketplace for AI Agent Labor
 My main focus today. A universal marketplace where AI agents get hired and paid onchain, just like freelancers, for code, research, analysis, and more.
 
 * **Business case:** Instead of locking into monthly tools or hiring freelancers for days, you hire autonomous agents per task and settle payment onchain. A labor market for AI, with verifiable reputation.
-* **Technical edge:** On-chain agent identity and reputation via **ERC-8004**, verified smart contracts, settlement onchain. Live on mainnet, expanding multi-chain.
-* **Links:** [Live App](#) · [8004scan](https://8004scan.io) · [Demo](#)
+* **Technical edge:** On-chain agent identity and reputation via **ERC-8004**, verified smart contracts, settlement onchain.
+* **Links:** [Live App](claudelance.xyz) · [8004scan](https://8004scan.io)
 
----
+### PerpsAgent · Verifiable AI Trading Agent on Mantle
+A self-improving AI grid-trading agent run from Telegram. Executes on Bybit (non-custodial, your keys), and proves its track record on Mantle.
 
-## 🌐 Other Things I've Shipped to Mainnet
+* **Business case:** Trading agents you can trust. Every run commits its config on-chain before trading and attests the verified outcome after, so the track record can't be edited or cherry-picked. The target is risk-adjusted performance, not raw PnL.
+* **Technical edge:** Commit-before-trade then attest-after on **Mantle**, on-chain memory for self-improvement, builder fees settled in native **MNT**. Born at the Mantle AI Awakening hackathon.
+* **Links:** [perpsagent.xyz](https://perpsagent.xyz) · [Docs](https://docs.perpsagent.xyz)
 
-A track record of taking ideas to live, working products across chains.
-
-### 🌾 Owna Farm · Built on Mantle
+### Owna Farm · RWA Invoice Financing on Mantle
 * **Business case:** Bridging the agricultural financing gap. Turns invoice financing into a "Plant-to-Earn" experience so farmers access capital without traditional collateral, while investors earn real yield.
 * **Technical edge:** Real-time crop monitoring via integrated IoT/CCTV and invoice tokenization using **ERC-1155** on Mantle L2.
-* **Links:** [Live App](https://ownafarm-farmer.vercel.app/) · [Demo Video](https://youtu.be/D8RmfS-OOtw)
-
-### 🛡️ OneSafeBet · Built on Hedera
-* **Business case:** A capital-protected prediction market. The principle is simple: your money stays yours, only the interest fights. Your principal is 100% protected.
-* **Technical edge:** Native **Hedera Staking** integration. Funds sit in non-custodial vaults, and the generated yield becomes "Battle Power".
-* **Links:** [Live App](https://onesafebet.vercel.app/)
-
-### 🏠 Owna Finance · Built on Base
-* **Business case:** Democratizing property investment. Retail investors own fractions of high-value assets starting from $1, with automated rental yield distribution onchain.
-* **Technical edge:** Automated distribution logic and transparent ownership records on **Base**.
-* **Links:** [Live App](https://ownafinance.xyz)
-
-### 📐 OneTriangle · Built on Onechain
-* **Business case:** A gamified no-loss savings protocol. Users deposit into factions, the collective yield goes to the winning group, and everyone can withdraw 100% of their principal.
-* **Links:** [Live App](https://onetrianggle.vercel.app/)
+* **Links:** [ownafarm.xyz](https://ownafarm.xyz)
 
 ---
 
 ## 🛠 Technical Toolbox
-* **Blockchain:** Solidity (Foundry), Mantle, Base, Hedera Hashgraph, Onechain, ERC-8004 agents.
+* **Blockchain:** Solidity (Foundry), Mantle, Celo, Base, ERC-8004 agents.
 * **Backend:** Go (Gin), Node.js, PostgreSQL, Redis/Valkey.
 * **Frontend:** Next.js, TypeScript, Tailwind CSS, Framer Motion.
-* **Expertise:** Onchain AI agents, DevRel strategy, tokenization, no-loss mechanics, IoT and blockchain integration.
+* **Expertise:** Onchain AI agents, DevRel strategy, RWA tokenization, IoT and blockchain integration.
 
 ---
 
-## 🏛️ Leadership & Community
-* **Founder & President, BCC UKDW:** Building a student-led Web3 club that learns, builds, and ships to mainnet. Empowering 100+ students through partnerships with **MetaMask**, **Base**, and **Upbit**.
+## 🏛️ Community I Lead
+
+### 🎓 BCC UKDW · [bccukdw.xyz](https://bccukdw.xyz)
+**Founder & President.** A student-led Web3 club that learns, builds, and ships to mainnet. Empowering 100+ students through partnerships with **MetaMask**, **Base**, and **Upbit**, and collaborating with blockchain clubs across Indonesian campuses.
+
 * **DevRel, DevWeb3Jogja:** Bridging protocols and developers across Yogyakarta's Web3 ecosystem.
 
-*Selected recognition: 1st place at Mantle Global Hackathon 2025 (OwnaFarm), top 3 at Hedera Hello Future Ascension 2025 and OneHack 2.0.*
+*Selected recognition: 1st place at Mantle Global Hackathon 2025 (OwnaFarm).*
 
 ---
 
